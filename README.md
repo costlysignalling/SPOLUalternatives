@@ -9,6 +9,6 @@ The space of possible alternatives is explored using Czech ngram corpus from htt
 
 - Start from SPOLU.Rproj
 - Run the SPOLU.R script
-- words_czech_ANSI.txt holds the data in tab separated values
+- words_czech_ANSI.txt holds the data as tab separated values
 - options...txt files store the outputs
 
