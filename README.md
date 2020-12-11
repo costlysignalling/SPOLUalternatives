@@ -7,7 +7,8 @@ It is a convenient and highly symbolic label, since it shares 2 letters with ODS
 
 The space of possible alternatives is explored using Czech ngram corpus from http://www.pspad.com/cz/download.php#dictionary 
 
--Start from SPOLU.Rproj
--Run the SPOLU.R script
--options...txt files store the outputs
+- Start from SPOLU.Rproj
+- Run the SPOLU.R script
+- words_czech_ANSI.txt holds the data in tab separated values
+- options...txt files store the outputs
 
